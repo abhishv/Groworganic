@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { Checkbox, List, ListItem, ListItemText, IconButton, Collapse } from '@mui/material';
 import { ExpandMore, ExpandLess } from '@mui/icons-material';
 import { departments } from '../data/departments';
