@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import UserForm from './components/UserForm';
 import SecondPage from './components/SecondPage';
