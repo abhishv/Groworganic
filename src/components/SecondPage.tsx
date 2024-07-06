@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Navigate } from 'react-router-dom';
 import { isUserDetailsValid } from '../utils/validation';
 import PostTable from './PostTable'; // This is the table component from Task 3
